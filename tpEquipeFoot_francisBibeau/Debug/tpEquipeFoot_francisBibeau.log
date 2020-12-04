@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\fbibeau\Desktop\C\d02_prog_h20\tpEquipeFoot_francisBibeau\Source.cpp(340): warning C4715: 'selectionPosition' : les chemins de contrôle ne retournent pas tous une valeur
+  tpEquipeFoot_francisBibeau.vcxproj -> C:\Users\fbibeau\Desktop\C\d02_prog_h20\Debug\tpEquipeFoot_francisBibeau.exe
